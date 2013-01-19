@@ -1,8 +1,8 @@
 {
-    "name": "300人委員会人数",
+    "name": "300人委員会人数取得",
         "version": "0.0.1",
         "manifest_version": 2,
-        "description": "300人委員会人数",
+        "description": "300人委員会の人数を常に確認出来ます",
         "permissions": [
             "http://benjaminfulford.com/300.html",
             "alarms"
